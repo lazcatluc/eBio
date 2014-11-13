@@ -1,4 +1,4 @@
-package ro.contezi.ebio.config;
+package ro.ebio.config;
 
 import java.io.IOException;
 import javax.servlet.http.HttpServletRequest;

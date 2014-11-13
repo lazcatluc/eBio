@@ -3,8 +3,9 @@
  * and open the template in the editor.
  */
 
-package ro.contezi.ebio.config;
+package ro.ebio.config;
 
+import ro.ebio.config.FacesContextUtil;
 import javax.faces.application.Application;
 import javax.faces.context.ExternalContext;
 import javax.faces.context.FacesContext;
